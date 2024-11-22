@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./index-392rHMM4.js";const s={data(){return{}},methods:{},mounted(){}};function n(r,c,a,p,_,d){return o(),e("p",null,"前端")}const m=t(s,[["render",n]]);export{m as default};

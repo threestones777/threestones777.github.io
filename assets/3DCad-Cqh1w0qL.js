@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./index-392rHMM4.js";const n={data(){return{}},methods:{},mounted(){}};function r(a,c,s,_,p,d){return o(),t("p",null,"三维 CAD")}const f=e(n,[["render",r]]);export{f as default};
